@@ -5,7 +5,7 @@ return array (
   'after_welcome' => 'Before you continue please update your account with your name and a new password.',
   'change_password' => 'Change Password',
   'confirm_new_password' => 'Confirm New Password',
-  'dont_have_account_button' => 'Don\'t have any account? <a class="semibold" href=":url">Sign up</a>',
+  'dont_have_account_button' => '',
   'email' => 'Email',
   'first_name' => 'First Name',
   'forgot_password' => 'Forgot Password',
